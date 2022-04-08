@@ -50,19 +50,30 @@ A list of reports and other such findings on my research regarding the army airc
    Report #9:
    
    In this report my main focus will be having the report act as a recap of the capabilities of the ACN and what it's able to manage:
-   Primary Objectives:
+
+Primary Objectives:
+
 •	Provide its users software system capable of a supporting the needs of aviation pilots as well as make maintenance checks/requirements take both less time to process completely, and be an all in one process under the ACN software systems. Instead of needing to go through several different systems to complete its maintenance it is an all-inclusive check.
+
 •	Contains a digital logbook that acts as a way to contain the information that is produced by the ACN running it’s required system software checklist. This way, the information can be reviewed and confirmed of its reported accuracy. 
+
 •	Keeps records confirming whether the ACN can certify an aircraft’s airworthiness by checking the statistics of an aircraft by the ACN’s programmed requirements to guarantee said airworthiness. 
+
 •	The ACN is also capable of offering digital maintenance training through its communication portion of the software. This software is able to use the MFOQA (described in report #2) to offer a program utilized for training the enhanced proceedings as far as the maintenance done by the ACN is concerned. 
+
 •	The Notebook also has been reported to have an IETM (report #2) which can offer its user with a constant updating stream of data regarding its last updates and changes in its system. This way, the system can keep track of any faults, recent system diagnostics, updates, and other support functionalities. 
+
 •	The ACN is responsible for sending its forms created by the system as far as training program outcomes as well as maintenance outcomes over to the Commander on a regular/expected basis. 
+
 •	The system also is required to give maintenance to other systems in its vicinity by loading packet changes and other catalogue updates to the other services the ACN answers to. 
+
 •	The ACN is also responsible for providing advice/assistance to it’s other maintenance system services as a way to keep the information flow as neat as possible, and without any errors across the maintenance platforms. 
 
 
 Other Related Responsibilities:
+
 •	In the last few years, the ACN has had its systems transferred into being a subsystem of the GCSS-A (which was introduced in Report #8). So now the ACN is needed to be not only compatible with the GCSS-A software system, but it also needs to continue to give its recorded data to the GCSS-A. 
+
 •	While the ACN might be relied on for several different system upkeeps across the Army’s aviation branch, it is self-sufficient as far as its own assistance requirements go. 
 
    
