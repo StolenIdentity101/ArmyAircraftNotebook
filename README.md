@@ -76,5 +76,20 @@ Other Related Responsibilities:
 
 •	While the ACN might be relied on for several different system upkeeps across the Army’s aviation branch, it is self-sufficient as far as its own assistance requirements go. 
 
-   
+   Report #10
+	
+   This report’s primary goal is to list the main connecting points of different systems and connections across the outerweb of the ACN and its neighboring systems:
+
+Responsibilities to other systems:
+
+•	The ACN is responsible for maintenance and documentation, that’s been stated heavily from my research. With that being said, it’s no question that the Combat Service Support Automated Information Systems Interface (CAISI) would be heavily reliant on the documentation that the ACN contains regarding useful information based on the records system integrated into the ACN, things such as whether or not if an aircraft is airworthy as well as it’s last maintenance date can be essential for the CAISI Aircraft system.
+
+•	The ACN is also responsible for assisting the AMPS, or the Aviation Mission Planning System. The system is dedicated to the ACN when it comes to pre-mission planning and certain intricate levels of functionality such as the interface and menus for the ACN’s interface option menus. This is an example of how the ACN relies on the AMPS according to the P-40 Budget Line Report. 
+
+•	The ACN also is responsible for the ALE-P’s usage as it is an integrated system in the ACN. It is the primary directive that is responsible for minimizing the required amount of entries into the ACN, afterall the ACN’s purpose when it was first being designed was to reduce the amount of time and energy that was taken up by maintenance operators in the Army Aviation unit. With the ACN’s interaction with ALE-P, this reduction is a guarantee. 
+
+•	Another system reliant on the ACN is the AESIP, or Army Enterprise Systems Integration Program Hub. This connection is responsible for the integration process that belongs to the GCSS-A’s (mentioned in report #9) ongoing process of integrating the ACN to be a parallel system to the GCSS-A. AESIP is basically the primary system that handles these types of integrations as they are rather common in the sense of attempting to reduce the number of obsolete/redundant systems. 
+
+•	The TAMMS-A (The Army Maintenance Management System – Aviation) is an integrated logbook of the ACN that while can be separately used aside from the form of the integrated version containted in the ACN, it’s still heavily reliant on the maintance logging systems contained in the ACN software requirements. 
+
 
