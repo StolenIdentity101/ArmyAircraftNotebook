@@ -76,7 +76,7 @@ Other Related Responsibilities:
 
 •	While the ACN might be relied on for several different system upkeeps across the Army’s aviation branch, it is self-sufficient as far as its own assistance requirements go. 
 
-   Report #10
+   Report #10:
 	
    This report’s primary goal is to list the main connecting points of different systems and connections across the outerweb of the ACN and its neighboring systems:
 
@@ -92,4 +92,40 @@ Responsibilities to other systems:
 
 •	The TAMMS-A (The Army Maintenance Management System – Aviation) is an integrated logbook of the ACN that while can be separately used aside from the form of the integrated version containted in the ACN, it’s still heavily reliant on the maintance logging systems contained in the ACN software requirements. 
 
+   Report #11:
 
+Timeline of Events:
+
+•	2011: ACN’s initial software integration and startup begins. 
+
+•	2012: ACN continued software creation, design, integration, and testing. Found reports include support on the project from system engineers, logistics, and technical support from the army. 
+
+•	2014: ANMP (Aviation Networks and Mission Planning) acts to prove that the ACN along with a few other systems can replace the now legacy system, STAMIS (Standard Army Management Information System).
+
+•	2014 - 2016: What seems to be a budget form from early 2013 seems to suggest the ACN was in its early development stage after being first introduced in 2011, yet doesn’t have much information being presented past 2012, then the information available increases in 2017.
+
+•	Mid - 2017: ACN Software Material released to the more systems past the initial developers.
+
+•	Late – 2017: ATO(Air Tasking Order) RMF(Risk Management Framework) Initialization; this was done first to act as a way to prep the ACN for it’s future usage with less risk to the other systems it will be integrated with.
+
+•	Late 2017: UAS(Unmanned Aircraft System) Fielding; testing to confirm and plan the compatibilities of the UAS and ACN system properties.
+
+•	Early – 2018: LLD(Layered Laser Defense) addition to the ACN workings
+
+•	Mid – 2018: Rotary Wing Fielding Testings for the ACN integration; the start of working the ACN systems into the requirements/properties of aircraft systems. 
+
+•	Early – 2019: UAS-I; integration between the ACN systems and the UAS. 
+
+•	Mid – 2019: Fixed Wing Fielding; testing the systems of the fixed winged aircrafts and the ACN integration compatibility.
+
+•	Mid – 2020: ULLS-A (Unit Leveled Logistics System – Aviation) compatibility tests and integration added to the system processes in the ACN.
+
+•	Early – 2021: According to the P-40 Exhibit budget documents, the GCSS-A increment 1 was initially created to act as a campaign plan to introduce to army to a seamlessly flowing source of technology that’s reliable, accurate, accessible, and secure without fail. Though increment 1 is mostly focused on the land units, increment 2 is pointed out in the same document to offer a more aviation based tool. Thus, this increment doesn’t include the ACN , but I felt it vital to include before mentioning the increment 2. 
+
+•	Early – 2022: Increment 2 begins being planned by the Army’s GCSS-A as a way to replace the now legacy systems of the army’s aviation units and replace them with the ACN and AWRDS (Army War Reserve Deployment System). This increment is built on the idea of offering the army’s air units a more secure and accurate information flow on the battlefield, so that combat is as smooth as possible.
+
+•	Mid – 2021: The GCSS-A got permission to begin testing the ACN to begin releasing the tests of increment 2 wave 1 from the program director Officer Ross Guckert. 51,000 army personnel were presented with these new capabilities, as the testing process of the first wave. 
+
+o	Note: Increment 2 seems to be a bridging solution to a problem presented through the integration of the ACN into the Army’s Enterprise Business Systems. 
+
+•	March 2022: The planned date (haven’t found confirmation if it went through) for the next wave of increment 2’s to be released. 
