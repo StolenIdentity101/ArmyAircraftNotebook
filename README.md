@@ -106,6 +106,8 @@ Timeline of Events:
 
 •	Mid - 2017: ACN Software Material released to the more systems past the initial developers.
 
+•	Mid - 2017: AMPS begins it's integration testing of the ACN capabilities.
+
 •	Late – 2017: ATO(Air Tasking Order) RMF(Risk Management Framework) Initialization; this was done first to act as a way to prep the ACN for it’s future usage with less risk to the other systems it will be integrated with.
 
 •	Late 2017: UAS(Unmanned Aircraft System) Fielding; testing to confirm and plan the compatibilities of the UAS and ACN system properties.
@@ -126,6 +128,6 @@ Timeline of Events:
 
 •	Mid – 2021: The GCSS-A got permission to begin testing the ACN to begin releasing the tests of increment 2 wave 1 from the program director Officer Ross Guckert. 51,000 army personnel were presented with these new capabilities, as the testing process of the first wave. 
 
-o	Note: Increment 2 seems to be a bridging solution to a problem presented through the integration of the ACN into the Army’s Enterprise Business Systems. 
+   o	Note: Increment 2 seems to be a bridging solution to a problem presented through the integration of the ACN into the Army’s Enterprise Business Systems. 
 
 •	March 2022: The planned date (haven’t found confirmation if it went through) for the next wave of increment 2’s to be released. 
